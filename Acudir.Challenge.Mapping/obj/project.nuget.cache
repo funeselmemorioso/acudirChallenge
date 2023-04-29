@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "01Ip6MdeBV2PfN57IzNTAmVUF4UJM2INlpj1lWUxjLtmJM/kDfGlEDtIrvcv1kNFx7g3uGPXff0bE6vi1DkgbQ==",
+  "success": true,
+  "projectFilePath": "D:\\source\\repos\\Acudir.Challenge\\Acudir.Challenge.Mapping\\Acudir.Challenge.Mapping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicolin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Nicolin\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

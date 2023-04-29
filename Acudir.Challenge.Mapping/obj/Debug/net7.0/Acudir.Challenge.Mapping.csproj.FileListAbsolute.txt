@@ -1,0 +1,17 @@
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\bin\Debug\net7.0\Acudir.Challenge.Mapping.deps.json
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\bin\Debug\net7.0\Acudir.Challenge.Mapping.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\bin\Debug\net7.0\Acudir.Challenge.Mapping.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\bin\Debug\net7.0\Acudir.Challenge.DTOs.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\bin\Debug\net7.0\Acudir.Challenge.Models.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\bin\Debug\net7.0\Acudir.Challenge.DTOs.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\bin\Debug\net7.0\Acudir.Challenge.Models.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\Acudir.Challenge.Mapping.csproj.AssemblyReference.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\Acudir.Challenge.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\Acudir.Challenge.Mapping.AssemblyInfoInputs.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\Acudir.Challenge.Mapping.AssemblyInfo.cs
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\Acudir.Challenge.Mapping.csproj.CoreCompileInputs.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\Acudir.Challenge.Mapping.csproj.CopyComplete
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\Acudir.Challenge.Mapping.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\refint\Acudir.Challenge.Mapping.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\Acudir.Challenge.Mapping.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Mapping\obj\Debug\net7.0\ref\Acudir.Challenge.Mapping.dll

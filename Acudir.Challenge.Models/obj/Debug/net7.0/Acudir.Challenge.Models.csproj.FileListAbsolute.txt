@@ -1,0 +1,12 @@
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\bin\Debug\net7.0\Acudir.Challenge.Models.deps.json
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\bin\Debug\net7.0\Acudir.Challenge.Models.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\bin\Debug\net7.0\Acudir.Challenge.Models.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\obj\Debug\net7.0\Acudir.Challenge.Models.csproj.AssemblyReference.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\obj\Debug\net7.0\Acudir.Challenge.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\obj\Debug\net7.0\Acudir.Challenge.Models.AssemblyInfoInputs.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\obj\Debug\net7.0\Acudir.Challenge.Models.AssemblyInfo.cs
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\obj\Debug\net7.0\Acudir.Challenge.Models.csproj.CoreCompileInputs.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\obj\Debug\net7.0\Acudir.Challenge.Models.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\obj\Debug\net7.0\refint\Acudir.Challenge.Models.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\obj\Debug\net7.0\Acudir.Challenge.Models.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Models\obj\Debug\net7.0\ref\Acudir.Challenge.Models.dll

@@ -1,0 +1,15 @@
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\bin\Debug\net7.0\Acudir.Challenge.Middlewares.deps.json
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\bin\Debug\net7.0\Acudir.Challenge.Middlewares.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\bin\Debug\net7.0\Acudir.Challenge.Middlewares.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\Acudir.Challenge.Middlewares.csproj.AssemblyReference.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\Acudir.Challenge.Middlewares.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\Acudir.Challenge.Middlewares.AssemblyInfoInputs.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\Acudir.Challenge.Middlewares.AssemblyInfo.cs
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\Acudir.Challenge.Middlewares.csproj.CoreCompileInputs.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\Acudir.Challenge.Middlewares.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\refint\Acudir.Challenge.Middlewares.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\Acudir.Challenge.Middlewares.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\ref\Acudir.Challenge.Middlewares.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\bin\Debug\net7.0\Acudir.Challenge.DTOs.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\bin\Debug\net7.0\Acudir.Challenge.DTOs.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.Middlewares\obj\Debug\net7.0\Acudir.Challenge.Middlewares.csproj.CopyComplete

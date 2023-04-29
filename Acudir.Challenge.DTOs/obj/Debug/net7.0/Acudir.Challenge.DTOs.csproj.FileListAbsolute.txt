@@ -1,0 +1,12 @@
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\bin\Debug\net7.0\Acudir.Challenge.DTOs.deps.json
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\bin\Debug\net7.0\Acudir.Challenge.DTOs.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\bin\Debug\net7.0\Acudir.Challenge.DTOs.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\obj\Debug\net7.0\Acudir.Challenge.DTOs.csproj.AssemblyReference.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\obj\Debug\net7.0\Acudir.Challenge.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\obj\Debug\net7.0\Acudir.Challenge.DTOs.AssemblyInfoInputs.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\obj\Debug\net7.0\Acudir.Challenge.DTOs.AssemblyInfo.cs
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\obj\Debug\net7.0\Acudir.Challenge.DTOs.csproj.CoreCompileInputs.cache
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\obj\Debug\net7.0\Acudir.Challenge.DTOs.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\obj\Debug\net7.0\refint\Acudir.Challenge.DTOs.dll
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\obj\Debug\net7.0\Acudir.Challenge.DTOs.pdb
+D:\source\repos\Acudir.Challenge\Acudir.Challenge.DTOs\obj\Debug\net7.0\ref\Acudir.Challenge.DTOs.dll
